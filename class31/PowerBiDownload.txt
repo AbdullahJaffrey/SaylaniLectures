@@ -9,4 +9,6 @@ https://apps.microsoft.com/store/detail/power-bi-desktop/9NTXR16HNW1T?hl=en-us&g
 OR
 
 
-Download Power BI desktop using free exe file given in the folder!
+Download Power BI desktop using free exe file using this link!
+
+https://www.microsoft.com/en-us/download/details.aspx?id=58494
