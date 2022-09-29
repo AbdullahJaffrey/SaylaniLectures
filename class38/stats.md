@@ -1,1 +1,0 @@
-Stat Class 3 
